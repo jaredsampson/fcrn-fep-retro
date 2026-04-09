@@ -1,4 +1,4 @@
-Here list all the prepared structure files used in the manuscript:
+This folder contains all prepared input structure files used in the manuscript.
 
 **Fc-FcRn complex structures used for retrospective FEP calculation:**
 
