@@ -12,5 +12,15 @@ WT_opls5_ph6_HIP310_HIP435_based_on_low_pH_M252R_refine_19_prepared.mae (for mut
 
 YTE_opls5_ph6_HIP310_HIP435_based_on_low_pH_M252R_refine_19_prepared.mae (for mutations in YTE background)
 
+**Input structures for calculations reported in Supplementary Table 6:**
+apo_T307W_HIP310_HIP435_alt_rot1_min_6A.mae
+apo_T307W_HIP310_HIP435_alt_rot2_min_6A.mae
+apo_T307W_HIP310_HIP435_alt_rot3_min_6A.mae
+apo_T307W_HIP310_HIP435_alt_stab_frame.mae
+holo_T307W_HIP310_HIP435_alt_rot1_min_6A.mae
+holo_T307W_HIP310_HIP435_alt_rot2_min_6A.mae
+holo_T307W_HIP310_HIP435_alt_rot3_min_6A.mae
+holo_T307W_HIP310_HIP435_alt_stab_frame.mae
+
 
 
