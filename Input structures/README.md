@@ -7,5 +7,6 @@ Here list all the prepared structure files used in the manuscript
 Low pH and High pH crystal structures of variant apo Fcs ((M252H, M252R)
 
 WT_opls5_ph6_HIP310_HIP435_based_on_low_pH_M252R_refine_19_prepared.mae (apo-conformation wt used for solvent leg-only FEP simulations)
+
 YTE_opls5_ph6_HIP310_HIP435_based_on_low_pH_M252R_refine_19_prepared.mae (apo-conformation YTE used for solvent leg-only FEP simulations)
 
