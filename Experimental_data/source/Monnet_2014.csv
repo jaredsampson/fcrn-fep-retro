@@ -1,0 +1,8 @@
+variant_name,fc_mutations,fcrn_mutations,source,source_variant_name,antibody,temp_C,pH,Kd_nM,err_Kd_nM
+wt,wt,wt,Monnet 2014,wt,CAT 13.6E12 (anti-CD20),25,6,78.3,NA
+,T307A/N315D/A330V/E382V/N389T/N434Y,wt,Monnet 2014,C6A-69,CAT 13.6E12 (anti-CD20),25,6,18.8,NA
+,T256N/A378V/S383N/N434Y,wt,Monnet 2014,C6A-78,CAT 13.6E12 (anti-CD20),25,6,17.6,NA
+,N315D/A330V/N361D/A378V/N434Y,wt,Monnet 2014,T5A-74,CAT 13.6E12 (anti-CD20),25,6,10.6,NA
+IDY,V259I/N315D/N434Y,wt,Monnet 2014,C6A-74,CAT 13.6E12 (anti-CD20),25,6,12.9,NA
+,P230S/N315D/M428L/N434Y,wt,Monnet 2014,C6A-60,CAT 13.6E12 (anti-CD20),25,6,13.8,NA
+,E294Del/T307P/N434Y,wt,Monnet 2014,C6A-66,CAT 13.6E12 (anti-CD20),25,6,13.8,NA

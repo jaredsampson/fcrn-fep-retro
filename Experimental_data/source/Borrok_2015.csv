@@ -1,0 +1,5 @@
+variant_name,fc_mutations,fcrn_mutations,source,source_variant_name,antibody,temp_C,pH,Kd_nM,err_Kd_nM
+wt,wt,wt,Borrok 2015,,HB20.3 (anti-CD20),25,6,880,NA
+YTE,M252Y/S254T/T256E,wt,Borrok 2015,,HB20.3 (anti-CD20),25,6,215,NA
+wt,wt,wt,Borrok 2015,,motavizumab,25,6,2140,NA
+YTE,M252Y/S254T/T256E,wt,Borrok 2015,,motavizumab,25,6,314,NA

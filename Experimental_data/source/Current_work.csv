@@ -1,0 +1,53 @@
+variant_name,fc_mutations,fcrn_mutations,source,source_variant_name,antibody,temp_C,pH,Kd_nM,err_Kd_nM
+wt,wt,wt,Current work,,VRC01,25,6,1690,88
+wt,wt,wt,Current work,,VRC01,25,6,1378,54
+wt,wt,wt,Current work,,VRC01,25,6,1304,33
+wt,wt,wt,Current work,,VRC01,25,6,1270,25
+wt,wt,wt,Current work,,VRC01,25,6,1390,64
+NA,T250I,wt,Current work,,VRC01,25,6,1639,37
+NA,L251N,wt,Current work,,VRC01,25,6,2281,63
+NA,M252H,wt,Current work,,VRC01,25,6,5750,470
+NA,M252R,wt,Current work,,VRC01,25,6,6053,220
+NA,I253M,wt,Current work,,VRC01,25,6,4280,370
+NA,S254C,wt,Current work,,VRC01,25,6,77600,120000
+NA,S254T,wt,Current work,,VRC01,25,6,2240,31
+NA,S254V,wt,Current work,,VRC01,25,6,3050,39
+NA,L309D,wt,Current work,,VRC01,25,6,5450,817
+NA,Q311H,wt,Current work,,VRC01,25,6,1510,93
+NA,Q311R,wt,Current work,,VRC01,25,6,861,41
+NA,D312I,wt,Current work,,VRC01,25,6,2128,42
+NA,D312S,wt,Current work,,VRC01,25,6,1120,9
+NA,M428E,wt,Current work,,VRC01,25,6,4760,460
+NA,M428L,wt,Current work,,VRC01,25,6,368,13
+NA,L432K,wt,Current work,,VRC01,25,6,2172,50
+NA,H433K,wt,Current work,,VRC01,25,6,872,31
+NA,H433Q,wt,Current work,,VRC01,25,6,1310,17
+NA,H433Y,wt,Current work,,VRC01,25,6,7070,270
+NA,N434F,wt,Current work,,VRC01,25,6,99,3
+NA,N434S,wt,Current work,,VRC01,25,6,294,8
+NA,H435K,wt,Current work,,VRC01,25,6,386,6
+NA,H435Q,wt,Current work,,VRC01,25,6,NBD,NA
+NA,H435Y,wt,Current work,,VRC01,25,6,36500,19000
+YT,M252Y/S254T,wt,Current work,,VRC01,25,6,245,3
+YE,M252Y/T256E,wt,Current work,,VRC01,25,6,260,3
+TE,S254T/T256E,wt,Current work,,VRC01,25,6,1108,35
+LS,M428L/N434S,wt,Current work,,VRC01,25,6,117,3
+KF,H433K/N434F,wt,Current work,,VRC01,25,6,72,3
+NA,M252Y/S254C/T256E,wt,Current work,,VRC01,25,6,3230,210
+NA,M252Y/S254V/T256E,wt,Current work,,VRC01,25,6,131,2
+DHS,L309D/Q311H/N434S,wt,Current work,,VRC01,25,6,312,7
+YTE,M252Y/S254T/T256E,wt,Current work,,VRC01,25,6,169,5
+YTE,M252Y/S254T/T256E,wt,Current work,,VRC01,25,6,142,4
+YTEP,M252Y/S254T/T256E/V308P,wt,Current work,,VRC01,25,6,26,2
+YTE + Q311H,M252Y/S254T/T256E/Q311H,wt,Current work,,VRC01,25,6,143,5
+YTE + A378V,M252Y/S254T/T256E/A378V,wt,Current work,,VRC01,25,6,113,2
+YTE + H433K,M252Y/S254T/T256E/H433K,wt,Current work,,VRC01,25,6,91,4
+YTE + N434F,M252Y/S254T/T256E/N434F,wt,Current work,,VRC01,25,6,88,2
+YTE + N434S,M252Y/S254T/T256E/N434S,wt,Current work,,VRC01,25,6,81,5
+YTE + Y436H,M252Y/S254T/T256E/Y436H,wt,Current work,,VRC01,25,6,276,35
+wt,wt,wt,Current work,,VRC01,25,6,1030,0
+NA,wt,P132G,Current work,,VRC01,25,6,6080,0
+NA,wt,P132N,Current work,,VRC01,25,6,15100,0
+NA,wt,P132V,Current work,,VRC01,25,6,1700,0
+NA,wt,E133D,Current work,,VRC01,25,6,1930,0
+NA,wt,E133Q,Current work,,VRC01,25,6,30600,0

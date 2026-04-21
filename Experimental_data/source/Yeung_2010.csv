@@ -1,0 +1,7 @@
+variant_name,fc_mutations,fcrn_mutations,source,source_variant_name,antibody,temp_C,pH,Kd_nM,err_Kd_nM
+wt,wt,wt,Yeung 2010,,bevacizumab,25,6,2400,100
+NA,N434H,wt,Yeung 2010,,bevacizumab,25,6,470,10
+QA,T307Q/N434A,wt,Yeung 2010,,bevacizumab,25,6,241,5
+QS,T307Q/N434S,wt,Yeung 2010,,bevacizumab,25,6,203,6
+PA,V308P/N434A,wt,Yeung 2010,,bevacizumab,25,6,70,2.3
+QAA,T307Q/E380A/N434A,wt,Yeung 2010,,bevacizumab,25,6,160,4

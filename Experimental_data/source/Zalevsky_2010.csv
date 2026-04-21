@@ -1,0 +1,7 @@
+variant_name,fc_mutations,fcrn_mutations,source,source_variant_name,antibody,temp_C,pH,Kd_nM,err_Kd_nM
+wt,wt,wt,Zalevsky 2010,,bevacizumab,25,6,2460,NA
+NA,N434S,wt,Zalevsky 2010,,bevacizumab,25,6,850,NA
+IF,V259I/V308F,wt,Zalevsky 2010,,bevacizumab,25,6,424,NA
+LS,M428L/N434S,wt,Zalevsky 2010,,bevacizumab,25,6,218,NA
+YTE,M252Y/S254T/T256E,wt,Zalevsky 2010,,bevacizumab,25,6,340,NA
+IFL,V259I/V308F/M428L,wt,Zalevsky 2010,,bevacizumab,25,6,124,NA

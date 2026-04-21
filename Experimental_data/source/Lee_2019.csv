@@ -1,0 +1,5 @@
+variant_name,fc_mutations,fcrn_mutations,source,source_variant_name,antibody,temp_C,pH,Kd_nM,err_Kd_nM
+wt,wt,wt,Lee 2019,,Trastuzumab,25,5.8,550,50
+LS,M428L/N434S,wt,Lee 2019,,Trastuzumab,25,5.8,55,3
+YTE,M252Y/S254T/T256E,wt,Lee 2019,,Trastuzumab,25,5.8,23,1
+DHS,L309D/Q311H/N434S,wt,Lee 2019,,Trastuzumab,25,5.8,110,20

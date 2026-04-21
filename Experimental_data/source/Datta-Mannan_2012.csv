@@ -1,0 +1,16 @@
+variant_name,fc_mutations,fcrn_mutations,source,source_variant_name,antibody,temp_C,pH,Kd_nM,err_Kd_nM
+wt,wt,wt,Datta-Mannan 2012,,A1,25,6,65,NA
+P,V308P,wt,Datta-Mannan 2012,,A1,25,6,2,NA
+QL,T250Q/M428L,wt,Datta-Mannan 2012,,A1,25,6,3,NA
+wt,wt,wt,Datta-Mannan 2012,,B1,25,6,195,NA
+P,V308P,wt,Datta-Mannan 2012,,B1,25,6,1,NA
+QL,T250Q/M428L,wt,Datta-Mannan 2012,,B1,25,6,2,NA
+wt,wt,wt,Datta-Mannan 2012,,C1,25,6,66,NA
+P,V308P,wt,Datta-Mannan 2012,,C1,25,6,1,NA
+QL,T250Q/M428L,wt,Datta-Mannan 2012,,C1,25,6,5,NA
+wt,wt,wt,Datta-Mannan 2012,,D1,25,6,91,NA
+P,V308P,wt,Datta-Mannan 2012,,D1,25,6,1,NA
+QL,T250Q/M428L,wt,Datta-Mannan 2012,,D1,25,6,9,NA
+wt,wt,wt,Datta-Mannan 2012,,E1,25,6,160,NA
+P,V308P,wt,Datta-Mannan 2012,,E1,25,6,1,NA
+QL,T250Q/M428L,wt,Datta-Mannan 2012,,E1,25,6,13,NA

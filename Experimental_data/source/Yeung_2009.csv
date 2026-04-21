@@ -1,0 +1,16 @@
+variant_name,fc_mutations,fcrn_mutations,source,source_variant_name,antibody,temp_C,pH,Kd_nM,err_Kd_nM
+wt,wt,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,1700,20
+NA,N434A,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,570,30
+NA,N434H,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,370,30
+NA,N434W,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,44,5
+NA,N434Y,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,78,12
+QL,T250Q/M428L,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,234,22
+YA,M252Y/N434A,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,220,20
+QA,T307Q/N434A,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,235,20
+PA,V308P/N434A,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,76,10
+PY,V308P/N434Y,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,10,1.8
+VA,A378V/N434A,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,390,40
+LA,M428L/N434A,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,300,40
+AI,N434A/Y436I,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,340,80
+YPY,M252Y/V308P/N434Y,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,4,1
+QAA,T307Q/E380A/N434A,wt,Yeung 2009,,h4D5 (trastuzumab),25,6,280,10

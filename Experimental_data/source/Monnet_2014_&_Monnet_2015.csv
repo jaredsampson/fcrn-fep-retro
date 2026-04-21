@@ -1,0 +1,4 @@
+variant_name,fc_mutations,fcrn_mutations,source,source_variant_name,antibody,temp_C,pH,Kd_nM,err_Kd_nM
+wt,wt,wt,Monnet 2014 & Monnet 2015,,CAT 13.6E12 (anti-CD20),25,6,101,NA
+YTE,M252Y/S254T/T256E,wt,Monnet 2014 & Monnet 2015,,CAT 13.6E12 (anti-CD20),25,6,54,NA
+NVY,T256N/A378V/N434Y,wt,Monnet 2014 & Monnet 2015,,CAT 13.6E12 (anti-CD20),25,6,26,NA
