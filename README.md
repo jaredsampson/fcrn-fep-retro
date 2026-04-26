@@ -1,5 +1,7 @@
 # fcrn-fep-retro
 
+[![DOI](https://zenodo.org/badge/1202107579.svg)](https://doi.org/10.5281/zenodo.19777391)
+
 Data and code for a retrospective Fc-FcRn FEP study.
 
 ## Contents
